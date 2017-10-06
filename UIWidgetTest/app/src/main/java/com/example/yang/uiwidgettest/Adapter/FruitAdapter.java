@@ -37,4 +37,5 @@ public class FruitAdapter extends ArrayAdapter<Fruit> {
         textView.setText(fruit.getName());
         return view;
     }
+
 }
